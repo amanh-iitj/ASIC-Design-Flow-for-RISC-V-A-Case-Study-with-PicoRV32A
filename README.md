@@ -42,7 +42,7 @@
 - Flop ratio % = 10.84
 
 
-- # Section 2 tasks:-
+# Section 2 tasks:-
 
 - Run 'picorv32a' design floorplan using OpenLANE flow and generate necessary outputs.
 - Calculate the die area in microns from the values in floorplan def.
